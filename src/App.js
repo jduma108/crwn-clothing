@@ -53,9 +53,9 @@ class App extends React.Component {
           <Route exact path='/crwn-clothing/checkout' component={CheckoutPage}/>
           <Route 
             exact 
-            path='/signin' 
+            path='/crwn-clothing/signin' 
             render={() => this.props.currentUser ? 
-            (<Redirect to='/'/>) 
+            (<Redirect to='/crwn-clothing'/>) 
             : 
             (<SignInAndSignUp/>)}
           />
