@@ -1,6 +1,6 @@
 ## crwm-clothing
 
-CRWN Clothing is a web application that allows you to browse and buy clothing (please note you actually can't purchase anything). This application was built using React, Fiewbase for authentication and Stripe for the payment feature. 
+CRWN Clothing is a web application that allows you to browse and buy clothing (please note you actually can't purchase anything). This application was built using React, Firebase for authentication and Stripe for the payment feature. 
 
 Check out the stie here: https://jillianduma.com/crwn-clothing/
 
